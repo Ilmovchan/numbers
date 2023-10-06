@@ -1,0 +1,12 @@
+/Users/user/Documents/GitHub/numbers/Numbers/bin/Debug/net7.0/Numbers.deps.json
+/Users/user/Documents/GitHub/numbers/Numbers/bin/Debug/net7.0/Numbers.dll
+/Users/user/Documents/GitHub/numbers/Numbers/bin/Debug/net7.0/Numbers.pdb
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfo.cs
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.dll
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/refint/Numbers.dll
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/Numbers.pdb
+/Users/user/Documents/GitHub/numbers/Numbers/obj/Debug/net7.0/ref/Numbers.dll
